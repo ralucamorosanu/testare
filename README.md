@@ -1,0 +1,2 @@
+# testare
+exercitiu
